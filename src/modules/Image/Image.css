@@ -1,0 +1,18 @@
+.block {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.title{
+    font-size: 50px;
+}
+.flag,.logo{
+    height: 150px;
+}
+.image-block{
+    display: flex;
+    gap: 50px;
+}
